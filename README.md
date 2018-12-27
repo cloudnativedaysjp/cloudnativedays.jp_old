@@ -8,5 +8,5 @@ please contact: cndf2019@cndays.jp
 - CloudNativeDays Tokyo 2019 / OpenStack Days Tokyo 2019 @ [Toranomon Hills Forum](http://forum.academyhills.com/toranomon/access/), July 22-23, 2019<br>
 please contact: cndt-osdt2019@cndays.jp
 
-- CloudNativeDay Osaka 2019 @ TBD, Early August, 2019<br>
-please contact: cndo2019@cndays.jp
+- CloudNativeDay Kansai 2019 @ TBD, Early August, 2019<br>
+please contact: cndk2019@cndays.jp
