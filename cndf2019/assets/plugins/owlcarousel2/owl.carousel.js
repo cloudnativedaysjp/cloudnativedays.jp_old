@@ -2363,12 +2363,12 @@
 		}
 
 		if (info.type === 'youtube') {
-			path = "http://img.youtube.com/vi/" + info.id + "/hqdefault.jpg";
+			path = "https://img.youtube.com/vi/" + info.id + "/hqdefault.jpg";
 			addThumbnail(path);
 		} else if (info.type === 'vimeo') {
 			$.ajax({
 				type: 'GET',
-				url: 'http://vimeo.com/api/v2/video/' + info.id + '.json',
+				url: 'https://vimeo.com/api/v2/video/' + info.id + '.json',
 				jsonp: 'callback',
 				dataType: 'jsonp',
 				success: function(data) {
@@ -2415,10 +2415,10 @@
 			|| this.owl.dom.$stage.height();
 
 		if (videoType === 'youtube') {
-			videoLink = "<iframe width=\"" + width + "\" height=\"" + height + "\" src=\"http://www.youtube.com/embed/"
+			videoLink = "<iframe width=\"" + width + "\" height=\"" + height + "\" src=\"https://www.youtube.com/embed/"
 				+ id + "?autoplay=1&v=" + id + "\" frameborder=\"0\" allowfullscreen></iframe>";
 		} else if (videoType === 'vimeo') {
-			videoLink = '<iframe src="http://player.vimeo.com/video/' + id + '?autoplay=1" width="' + width
+			videoLink = '<iframe src="https://player.vimeo.com/video/' + id + '?autoplay=1" width="' + width
 				+ '" height="' + height
 				+ '" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
 		}
