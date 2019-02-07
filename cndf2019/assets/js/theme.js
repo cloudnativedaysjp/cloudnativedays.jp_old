@@ -214,7 +214,7 @@ var theme = function () {
         initMainSlider: function () {
             $('#main-slider').owlCarousel({
                 //items: 1,
-                autoplay: true,
+                autoplay: false,
                 autoplayHoverPause: false,
                 loop: true,
                 margin: 0,
