@@ -5,7 +5,7 @@ CloudNative Days will come in 2019!!
 ## Upcoming events
 
 - [CloudNative Days Kansai 2019](https://cloudnativedays.jp/cndk2019/) @ Congrès Convention Center, November 27-28, 2019<br>
-Coming soon!<br>
+[https://cloudnativedays.jp/cndk2019/](https://cloudnativedays.jp/cndk2019/)<br>
 contact: cndk2019@cndays.jp
 
 ## Previous events
