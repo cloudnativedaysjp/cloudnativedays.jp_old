@@ -4,8 +4,12 @@ CloudNative Days will come in 2020!!
 
 ## Upcoming events
 
-Coming soon!<br>
-contact: cndk2019@cndays.jp
+- CloudNative Days Fukuoka 2020 @ ACROS Fukuoka, June 17, 2020
+- CloudNative Days Tokyo 2020 @ Hotel Gajoen Tokyo, September 8-9, 2020
+- CloudNative Days Kansai 2020 @ TBD, December, 2020
+
+Contact: https://twitter.com/cloudnativedays
+Sponsor Contact: cndj-spo@impress.co.jp
 
 ## Previous events
 
